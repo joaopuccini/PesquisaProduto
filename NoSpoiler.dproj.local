@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2019/02/06 13:34:39.751,=C:\Users\Joao Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/02/06 13:36:33.965,C:\Users\Joao Pedro\Desktop\MemoCash DEV\uNoSpoiler.pas=C:\Users\Joao Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/02/06 13:36:33.965,C:\Users\Joao Pedro\Desktop\MemoCash DEV\uNoSpoiler.fmx=C:\Users\Joao Pedro\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2019/02/06 15:59:15.807,C:\Users\Joao Pedro\Desktop\MemoCash DEV\NoSpoiler\NoSpoiler.dproj=C:\Users\Joao Pedro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2019/02/06 13:34:39.000.751,=C:\Users\Joao Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/06 13:36:33.000.965,C:\Users\Joao Pedro\Desktop\MemoCash DEV\uNoSpoiler.pas=C:\Users\Joao Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/06 13:36:33.000.965,C:\Users\Joao Pedro\Desktop\MemoCash DEV\uNoSpoiler.fmx=C:\Users\Joao Pedro\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/02/06 15:59:15.000.807,C:\Users\Joao Pedro\Desktop\MemoCash DEV\NoSpoiler\NoSpoiler.dproj=C:\Users\Joao Pedro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
-  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
-  </ActiveMobileDevice>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
 </BorlandProject>
